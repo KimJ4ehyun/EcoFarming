@@ -87,16 +87,22 @@
 </div>
 
 ## 🔑 주요 기능
-
-<img src="./assets/read_challenge.png" width="32%">
-<img src="./assets/join_challenge.png" width="32%">
-<img src="./assets/proof_check.png" width="32%">
+<table>
+  <tr>
+    <td><img src="./assets/read_challenge.png" width="100%"></td>
+    <td><img src="./assets/join_challenge.png" width="100%"></td>
+    <td><img src="./assets/proof_check.png" width="100%"></td>
+  </tr>
+</table>
 
 ## 🌟 차별성
-
-<img src="./assets/various_challenge.png" width="32%">
-<img src="./assets/enjoy_payment.png" width="32%">
-<img src="./assets/ai_complaint_check.png" width="32%">
+<table>
+  <tr>
+    <td><img src="./assets/various_challenge.png" width="100%"></td>
+    <td><img src="./assets/enjoy_payment.png" width="100%"></td>
+    <td><img src="./assets/ai_complaint_check.png" width="100%"></td>
+  </tr>
+</table>
 
 
 ## 🏗️ 시스템 아키텍처
