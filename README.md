@@ -1,7 +1,7 @@
 # Eco Farming
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![License](https://img.shields.io/badge/license-SSAFY-green)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 ### "챌린지를 통해 환경 보호 습관 형성을 돕는 서비스"
 
