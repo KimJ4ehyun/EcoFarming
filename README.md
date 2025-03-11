@@ -211,6 +211,7 @@
 ---
 ## 📹 시연 영상 및 자료
 
-- **시연 영상:** [YouTube 링크](https://www.youtube.com/watch?v=ngiXBbhoRrc)  
-- **발표 자료:** [MiriCanvas 링크](https://www.miricanvas.com/v/13qpik5)  
-- **배포 링크:** https://ecofarming.lol
+- **발표 자료:** [MiriCanvas](https://www.miricanvas.com/v/13qpik5)
+- **시연 영상:** [YouTube](https://www.youtube.com/watch?v=ngiXBbhoRrc)
+- **영상 포트폴리오** [YouTube](https://www.youtube.com/watch?v=_zmqM5AO4hQ)   
+- **배포 링크:** https://ecofarming.lol (현재 사용불가)
